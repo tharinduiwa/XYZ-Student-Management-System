@@ -13,7 +13,7 @@ public class UserDB {
     public UserDB(){
         try {
             cn=DriverManager.getConnection("jdbc:mysql://localhost:3306/xyzdb","admin","admin");
-            System.out.println("done"); 
+            System.out.println("successful"); 
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
