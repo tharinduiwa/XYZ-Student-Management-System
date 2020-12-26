@@ -5,14 +5,24 @@
         <group>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/Module.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/LecturerUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/Registration.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/UserDB.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/LoginUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/AdminUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/ModuleUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/StudentDB.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/Student.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/NewUserUI.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/Lecturer.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/DeleteUserUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/MainUI.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/User.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/ChangePasswordUI.java</file>
-            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/UserDB.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/business/Admin.java</file>
             <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/AdminDB.java</file>
-            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/user/AdminUI.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/ModuleDB.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/LecturerDB.java</file>
+            <file>file:/D:/Downloads/oop/XYZ%20Student%20Management%20System1/src/data/RegistrationDB.java</file>
         </group>
     </open-files>
 </project-private>
