@@ -47,10 +47,12 @@ public class AdminUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel1.setText("XYZ Institute");
+        jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel1.setText("XYZ ");
 
-        jLabel2.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Student Management System");
 
         mnuFile.setText("File");
@@ -155,23 +157,23 @@ public class AdminUI extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(116, 116, 116)
-                .addComponent(jLabel1)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(67, Short.MAX_VALUE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel1)
+                .addGap(293, 293, 293))
+            .addGroup(layout.createSequentialGroup()
+                .addGap(37, 37, 37)
                 .addComponent(jLabel2)
-                .addGap(65, 65, 65))
+                .addContainerGap(38, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
+                .addGap(6, 6, 6)
                 .addComponent(jLabel1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel2)
-                .addContainerGap(204, Short.MAX_VALUE))
+                .addContainerGap(193, Short.MAX_VALUE))
         );
 
         pack();
